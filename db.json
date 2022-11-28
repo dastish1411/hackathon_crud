@@ -1,0 +1,14 @@
+{
+    "users": [
+        {
+            "marka": "('Toyota',)",
+            "model": "('Toyota RAV4 IV',)",
+            "age_birth": "('2016',)",
+            "engine": "('2.5',)",
+            "color": "('Gray',)",
+            "body": "('None',)",
+            "mileage": "('105 000',)",
+            "price": "1 931 230"
+        }
+    ]
+}
